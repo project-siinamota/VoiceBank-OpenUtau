@@ -13,7 +13,7 @@ It is NOT the copy or second release of *Ario (アリオ)*. The voice-bank is no
 
 * Singer information have been written.
 * 39 of sound have been collected.
-* 0 of sound have been handled.
+* 39 of sound have been handled.
 
 ## License
 
