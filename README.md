@@ -12,8 +12,10 @@ It is NOT the copy or second release of *Ario (アリオ)*. The voice-bank is no
 ## Working Progress
 
 * Singer information have been written.
-* 39 of sound have been collected.
-* 39 of sound have been handled.
+* 53 of sound have been collected.
+* 53 of sound have been handled.
+
+I think there are still something missing, so the final completion time is uncertain.
 
 ## License
 
